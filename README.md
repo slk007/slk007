@@ -2,13 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.findshubhamsoni.com/)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Engineer, Developer and all time Learner!
 
-- 🔭 I’m currently working on a [website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I am Ambidextrous and Rubick's Cube Solver
 
 
 ### Connect with me:
