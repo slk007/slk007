@@ -23,6 +23,10 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slk007)](https://github.com/slk007/github-readme-stats)
+
+<br/>
+
 [website]: (http://www.findshubhamsoni.com/)
 [linkedin]: (https://linkedin.com/in/shubham-soni)
 [instagram]: (https://www.instagram.com/shubham_s.o.n.i/)
