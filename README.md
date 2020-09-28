@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham - [findshubhamsoni][website] 👋
+### Hi there, I'm Shubham - [findshubhamsoni][http://www.findshubhamsoni.com/] 👋
 
 [![Website](https://img.shields.io/website?label=findshubhamsoni.com&style=for-the-badge&url=https%3A%2F%2Ffindshubhamsoni.com)](http://www.findshubhamsoni.com/)
 
