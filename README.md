@@ -1,6 +1,6 @@
-### Hi there, I'm Shubham - [findshubhamsoni][http://www.findshubhamsoni.com/] 👋
+## Hi there, I'm Shubham - [http://www.findshubhamsoni.com/] 👋
 
-[![Website](https://img.shields.io/website?label=findshubhamsoni.com&style=for-the-badge&url=https%3A%2F%2Ffindshubhamsoni.com)](http://www.findshubhamsoni.com/)
+- View my projects [here][https://github.com/slk007?tab=repositories]
 
 ## I'm a Engineer, Developer and all time Learner!
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am Ambidextrous and Rubick's Cube Solver
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="findshubhamsoni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
