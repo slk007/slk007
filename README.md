@@ -1,6 +1,6 @@
-## Hi there, I'm Shubham - [http://www.findshubhamsoni.com/] 👋
+## Hi there, I'm Shubham - [findshubhamsoni.com](http://www.findshubhamsoni.com/) 👋
 
-- View my projects [here][https://github.com/slk007?tab=repositories]
+- View my projects [here](https://github.com/slk007?tab=repositories)
 
 ## I'm a Engineer, Developer and all time Learner!
 
